@@ -1,6 +1,6 @@
 # HTML/CSS: Sun and Earth
 
-### Fun thing to look at :smile:
+### Just for Fun :smile:
 
 <p align="center">
   <img src="demo.gif" alt="animated" />
